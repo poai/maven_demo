@@ -1,0 +1,5 @@
+cn\com\xiaofen\model\HelloMapper.class
+cn\com\xiaofen\model\Hello.class
+cn\com\xiaofen\action\IndexAction.class
+cn\com\xiaofen\service\HelloService.class
+cn\com\xiaofen\servlet\T.class
